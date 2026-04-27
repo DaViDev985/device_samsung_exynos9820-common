@@ -32,6 +32,10 @@
         "target_path": "hardware/samsung_slsi-linaro/openmax"
     },
     {
+        "repository": "android_hardware_samsung_slsi_nfc",
+        "target_path": "hardware/samsung_slsi/nfc"
+    },
+    {
         "repository": "android_kernel_samsung_exynos9820",
         "target_path": "kernel/samsung/exynos9820"
     }
